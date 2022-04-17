@@ -326,3 +326,22 @@ let got = {
     },
   ],
 };
+
+
+
+
+// <article class="tab">
+//   <div>
+//     <figure class="fig-flex">
+//       <img
+//         src="https://raw.githubusercontent.com/nnnkit/json-data-collections/master/game-of-thrones/game-of-thrones-eddard-stark.jpg"
+//         alt="">
+//         <span>Eddard "Ned" Stark</span>
+//     </figure>
+//   </div>
+//   <p>Lord of Winterfell - Warden of the North - Hand of the King - Married to Catelyn (Tully) Stark</p>
+//   <div class="link">
+//     <a href="http://gameofthrones.wikia.com/wiki/House_Stark">Learn More !</a>
+//   </div>
+
+// </article>
